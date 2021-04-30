@@ -6,7 +6,7 @@
 ---
 + name: NASTARAN
 + last name : MOHAMADYARI 
-+ location : KHPZESTAN MASJEDSOLEYMAN
++ location : KHUZESTAN MASJEDSOLEYMAN
 
 
 ### Skill Highlights
