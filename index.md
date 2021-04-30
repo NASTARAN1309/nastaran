@@ -1,30 +1,26 @@
 
-### Majid Agha Amini
-
+### NASTARAN MOHAMADYARI
 
 ### Personal informations
 
 ---
-+ name: Majid
-+ last name : Agha Amini
-+ Date of birth : 1987/December/29
-+ I am an IT man and also i am IT engineering student
-+ location : Tehran , I.R.Iran
++ name: NASTARAN
++ last name : MOHAMADYARI 
++ location : KHPZESTAN MASJEDSOLEYMAN
 
 
 ### Skill Highlights
 
 ---
-+ PLSQL programing
-+ Shell scripting
+
+
 
 
 ### Education
 
 ---
-+ Diploma : hashtom shahrivar  high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of Rey 
+
+ 
 
 ### language
 
@@ -41,7 +37,6 @@ _ payam Noor University of Rey
 ### working Experience
 
 ---
-+ I am working in irancell company.
 
 
 
